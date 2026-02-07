@@ -1,0 +1,482 @@
+[
+    {
+        "_id": "642c155b2c4774f05c36eeaa",
+        "name": "Funfetti cupcake",
+        "recipe": "Vanilla cake with colorful sprinkles baked in, topped with vanilla frosting and more sprinkles.",
+        "image": "/images/recipes/funfetti.png",
+        "category": "cupcake",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb9",
+        "name": "Brownie w/ ice cream",
+        "recipe": "A brownie with vanilla ice cream is a warm, fudgy brownie topped with creamy vanilla ice cream.",
+        "image": "/images/recipes/brownie ice cream.png",
+        "category": "brownie",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7c",
+        "name": "Berry Vanilla Delight cake",
+        "recipe": "A moist vanilla cake with sweet buttercream and fresh berries.",
+        "image": "/images/recipes/berrycake.png",
+        "category": "popular",
+        "price": 25
+    },
+    { 
+        "_id": "642c155b2c4774f05c36ee88",
+        "name": "Chocolate Swiss roll cake",
+        "recipe": "Swiss chocolate cake roll is a sponge cake filled with rich chocolate cream and rolled into a log.",
+        "image": "/images/recipes/swiss_choco_roll.png",
+        "category": "cake",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7a",
+        "name": "Hot Chocolate",
+        "recipe": "Hot chocolate is a warm, creamy drink made with rich cocoa and milk.",
+        "image": "/images/recipes/hot chocolate.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee74",
+        "name": "Iced Donut",
+        "recipe": "An iced choco donut with a glossy, sweet chocolate glaze.",
+        "image": "/images/recipes/iced donut.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee712",
+        "name": "Almond Brownies",
+        "recipe": "Almond brownies are rich, fudgy chocolate squares with crunchy almonds.",
+        "image": "/images/recipes/almond_brownie.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7x",
+        "name": "Choco Choco cake",
+        "recipe": "A choco cake is a rich chocolate sponge with creamy chocolate frosting.",
+        "image": "/images/recipes/choco choco cake.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8c",
+        "name": "Vanilla Bean cake",
+        "recipe": "A vanilla bean birthday cake is a soft cake with vanilla bean flavor and festive frosting.",
+        "image": "/images/recipes/Vanilla-Bean.png",
+        "category": "cake",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee94",
+        "name": "Glazed Donut",
+        "recipe": "Sweet, shiny coating with a soft, airy interior.",
+        "image": "/images/recipes/glazed.png",
+        "category": "donut",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9e",
+        "name": "Iced Donut",
+        "recipe": "An iced choco donut with a glossy, sweet chocolate glaze.",
+        "image": "/images/recipes/iced donut.png",
+        "category": "donut",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea6",
+        "name": "Vanilla cupcake",
+        "recipe": "Classic vanilla-flavored cake with vanilla frosting.",
+        "image": "/images/recipes/vanilla.png",
+        "category": "cupcake",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeaf",
+        "name": "Frosted lemonade",
+        "recipe": "Frosted lemonade is a creamy blend of lemonade and vanilla ice cream.",
+        "image": "/images/recipes/Frosted-Lemonade.png",
+        "category": "beverage",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee89",
+        "name": "Coconut Honey cake",
+        "recipe": "Toasted coconut honey ginger cake is a spiced cake with honey, toasted coconut, and ginger.",
+        "image": "/images/recipes/coconut_honey.png",
+        "category": "cake",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8a",
+        "name": "PB ice cream cake",
+        "recipe": "Peanut butter fudge ice cream cake is a layered cake with creamy peanut butter and fudge ice cream.",
+        "image": "/images/recipes/pb_ice_cream_cake.png",
+        "category": "cake",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee96",
+        "name": "Powdered sugar Donut",
+        "recipe": "Coated in a light, sugary dust.",
+        "image": "/images/recipes/sugar_donut.png",
+        "category": "donut",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee81",
+        "name": "Tuna Niçoise",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "/images/recipes/img2.png",
+        "category": "offered",
+        "price": 10.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee84",
+        "name": "Strawberry Buttermilk bundt",
+        "recipe": "A moist bundt cake with strawberry buttermilk and a white chocolate ganache.",
+        "image": "/images/recipes/strawberry_buttermilk_bundt.png",
+        "category": "cake",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea4",
+        "name": "Chocolate cupcake",
+        "recipe": "Rich chocolate cake with chocolate or vanilla frosting.",
+        "image": "/images/recipes/chocolate.png",
+        "category": "cupcake",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea5",
+        "name": "Red Velvet cupcake",
+        "recipe": "Cocoa-flavored cake with a hint of red, topped with cream cheese frosting.",
+        "image": "/images/recipes/velvet.png",
+        "category": "cupcake",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee87",
+        "name": "Ginger Stout bundt",
+        "recipe": "A spiced bundt cake with a tahini honey glaze.",
+        "image": "/images/recipes/ginger_stout_bundt.png",
+        "category": "cake",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee83",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "/images/recipes/img1.png",
+        "category": "offered",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7f",
+        "name": "Oreo Shake",
+        "recipe": "An Oreo shake is a creamy blend of vanilla ice cream and crushed Oreo cookies.",
+        "image": "/images/recipes/oreo.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea8",
+        "name": "Carrot cupcake",
+        "recipe": "Spiced carrot cake with cream cheese frosting.",
+        "image": "/images/recipes/carrot.png",
+        "category": "cupcake",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeba",
+        "name": "Almond Brownies",
+        "recipe": "Almond brownies are rich, fudgy chocolate squares with crunchy almonds.",
+        "image": "/images/recipes/almond_brownie.png",
+        "category": "brownie",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee80",
+        "name": "Roast Duck Breast",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "/images/recipes/img2.png",
+        "category": "offered",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee90",
+        "name": "Sour cream coffee cake",
+        "recipe": "Sour cream coffee cake is a moist, crumbly cake with a cinnamon streusel topping.",
+        "image": "/images/recipes/sour_coffee_cake.png",
+        "category": "cake",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb0",
+        "name": "Butterscotch shake",
+        "recipe": "A butterscotch shake is a creamy blend of butterscotch syrup and ice cream.",
+        "image": "/images/recipes/butterscotch_shake.png",
+        "category": "beverage",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8d",
+        "name": "Classic Cheesecake",
+        "recipe": "Classic cheesecake is a creamy, rich dessert with a graham cracker crust.",
+        "image": "/images/recipes/cheesecake.png",
+        "category": "cake",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8e",
+        "name": "Strawberry cheesecake shortcake",
+        "recipe": "Strawberry cheesecake shortcake is a layered dessert with cheesecake and strawberries.",
+        "image": "/images/recipes/shortcake_strawberry.png",
+        "category": "cake",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea7",
+        "name": "Lemon cupcake",
+        "recipe": "Tangy lemon cake with lemon frosting or glaze",
+        "image": "/images/recipes/lemoncup.png",
+        "category": "cupcake",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee99",
+        "name": "Jelly filled Donut",
+        "recipe": "Filled with sweet fruit jelly inside.",
+        "image": "/images/recipes/Jelly-Donut.png",
+        "category": "donut",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb3",
+        "name": "Strawberry Shake",
+        "recipe": "A strawberry shake is a smooth blend of strawberries and ice cream.",
+        "image": "/images/recipes/strawberry_shake.png",
+        "category": "beverage",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb5",
+        "name": "Chocolate Shake",
+        "recipe": "A chocolate shake is a creamy blend of chocolate syrup and ice cream.",
+        "image": "/images/recipes/choco_shake.png",
+        "category": "beverage",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb6",
+        "name": "Oreo Shake",
+        "recipe": "An Oreo shake is a creamy blend of vanilla ice cream and crushed Oreo cookies.",
+        "image": "/images/recipes/oreo.png",
+        "category": "beverage",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb8",
+        "name": "Hot Chocolate",
+        "recipe": "Hot chocolate is a warm, creamy drink made with rich cocoa and milk.",
+        "image": "/images/recipes/hot chocolate.png",
+        "category": "beverage",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7e",
+        "name": "White Choco donut",
+        "recipe": "A white choco donut is a soft donut with white chocolate glaze and chocolate chips.",
+        "image": "/images/recipes/white choco donut.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8b",
+        "name": "Choco Choco cake",
+        "recipe": "A choco cake is a rich chocolate sponge with creamy chocolate frosting.",
+        "image": "/images/recipes/choco choco cake.png",
+        "category": "cake",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8f",
+        "name": "Gluten-free Choco Banana cake",
+        "recipe": "A moist gluten-free cake with chocolate and banana.",
+        "image": "/images/recipes/glutenfree_choco_cake.png",
+        "category": "cake",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee91",
+        "name": "Berry Vanilla Delight cake",
+        "recipe": "A moist vanilla cake with sweet buttercream and fresh berries.",
+        "image": "/images/recipes/berrycake.png",
+        "category": "cake",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee97",
+        "name": "Cream filled Donut",
+        "recipe": "Filled with smooth, sweet cream.",
+        "image": "/images/recipes/cream_donut.png",
+        "category": "donut",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea0",
+        "name": "Boston cream donut",
+        "recipe": "Filled with custard and topped with chocolate glaze.",
+        "image": "/images/recipes/boston.png",
+        "category": "donut",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea9",
+        "name": "Strawberry cupcake",
+        "recipe": "Vanilla or strawberry cake with strawberry frosting.",
+        "image": "/images/recipes/strawberry.png",
+        "category": "cupcake",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee85",
+        "name": "Vanilla ombré cake",
+        "recipe": "Vanilla ombré cake features layers of vanilla cake in graduating shades of color.",
+        "image": "/images/recipes/vanilla_ombre.png",
+        "category": "cake",
+        "price": 10.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee93",
+        "name": "Maple glazed donut",
+        "recipe": "Topped with a sweet, maple-flavored glaze.",
+        "image": "/images/recipes/maple.png",
+        "category": "donut",
+        "price": 10.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee95",
+        "name": "Cinnamon sugar Donut",
+        "recipe": "Coated in cinnamon and sugar, with a hint of spice.",
+        "image": "/images/recipes/cinnamon.png",
+        "category": "donut",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9b",
+        "name": "Old fashioned Donut",
+        "recipe": "Cake-like donut with a crisp exterior and soft inside.",
+        "image": "/images/recipes/old.png",
+        "category": "donut",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb7",
+        "name": "Vanilla milkshake",
+        "recipe": "A vanilla shake is a smooth blend of vanilla ice cream and milk.",
+        "image": "/images/recipes/vanilla-milkshake.png",
+        "category": "beverage",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9c",
+        "name": "Lemon filled Donut",
+        "recipe": "Filled with tangy lemon curd.",
+        "image": "/images/recipes/lemon.png",
+        "category": "donut",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9d",
+        "name": "Apple cider Donut",
+        "recipe": "Flavored with apple cider and spices, often with a cake-like texture.",
+        "image": "/images/recipes/apple.png",
+        "category": "donut",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeac",
+        "name": "Banana cupcake",
+        "recipe": "Moist banana cake with cream cheese or vanilla frosting.",
+        "image": "/images/recipes/banana.png",
+        "category": "cupcake",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb4",
+        "name": "Hot Beaten Coffee",
+        "recipe": "Hot beaten coffee is a frothy, whipped coffee made with sugar, instant coffee, and hot milk.",
+        "image": "/images/recipes/hot_coffee.png",
+        "category": "beverage",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee98",
+        "name": "Red Velvet Donut",
+        "recipe": "A rich, chocolatey donut with a hint of cocoa and a red hue.",
+        "image": "/images/recipes/red.png",
+        "category": "donut",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee82",
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "/images/recipes/img1.png",
+        "category": "offered",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee86",
+        "name": "Decadent chocolate cake",
+        "recipe": "Decadent chocolate cake is a rich, indulgent chocolate dessert.",
+        "image": "/images/recipes/decadent_choco.png",
+        "category": "cake",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9a",
+        "name": "White Choco donut",
+        "recipe": "A white choco donut is a soft donut with white chocolate glaze and chocolate chips.",
+        "image": "/images/recipes/white choco donut.png",
+        "category": "donut",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeab",
+        "name": "Cookies and cream cupcake",
+        "recipe": "Chocolate cake with crushed cookies mixed in, topped with cookies and cream frosting.",
+        "image": "/images/recipes/cac.png",
+        "category": "cupcake",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb1",
+        "name": "Cold Coffee",
+        "recipe": "Cold coffee is a chilled, creamy blend of coffee, milk, and ice.",
+        "image": "/images/recipes/cold_coffee.png",
+        "category": "beverage",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eead",
+        "name": "Caramel Cold Coffee",
+        "recipe": "Caramel cold coffee is a chilled, creamy blend of coffee, milk, and caramel syrup.",
+        "image": "/images/recipes/Caramel-Cold-Coffee.png",
+        "category": "beverage",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeae",
+        "name": "Hazelnut Cold Coffee",
+        "recipe": "Hazelnut cold coffee is a chilled, creamy blend of coffee, milk, and hazelnut syrup.",
+        "image": "/images/recipes/hazelnut_coffee.png",
+        "category": "beverage",
+        "price": 10.5
+    }
+]

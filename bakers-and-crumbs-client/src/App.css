@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+body{
+  font-family: 'Inter', sans-serif;
+}
+header{
+  z-index:10001 !important
+}
+
+.section-container{
+  @apply max-w-screen-2xl container mx-auto xl:px-4;
+} 
+
+.subtitle{
+  @apply text-blue-900 uppercase tracking-wide font-medium text-lg justify-center 
+}
+
+.title{
+  @apply text-4xl md:text-5xl font-bold my-2 md:leading-snug leading-snug justify-center text-black
+} 
+
+.heartStar{
+  border-radius:0px 28px 0px 28px;
+}
+
+.active{
+  text-decoration: underline;
+  text-underline-offset: 5px;
+  color:#e8a8b6
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
