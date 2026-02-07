@@ -2,8 +2,6 @@
 
 An elegant and full-featured **Online Food Delivery Web App** built using the **MERN Stack**, offering seamless food ordering, secure authentication, and real-time updates for both users and admins.
 
-🚀 Live Preview: [bakers-and-crumbs-online-food-delivery-management-system-lful.vercel.app](https://bakers-and-crumbs-online-food-delivery-management-system-lful.vercel.app)
-
 ---
 
 ## 🍽️ Features
